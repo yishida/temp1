@@ -1,1 +1,2 @@
 We learned Linux and data management.
+Yesterday we learned how to use R to do stuff.
